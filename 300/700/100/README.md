@@ -12,3 +12,4 @@ Enter the share path to your drive provided by Paperspace and make sure that you
 
 In the pop-up log-in screen, enter the login credentials provided by Paperspace to connect to the shared drive and mount it. Make sure to check "Remeber my credentials."
 
+![Map_Network_Drive_003](https://github.com/vanHeemstraSystems/deadline/assets/1499433/c2d5b1c2-1fa9-4bd4-926e-7404db1f2631)
