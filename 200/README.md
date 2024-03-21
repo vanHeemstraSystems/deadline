@@ -4,7 +4,7 @@ In order to do this tutorial you must have:
 
 - More than one Paperspace machine.
 
-- A Shared Paperspace Drive.
+- A Shared Paperspace Drive. See [How to Create, Access and Delete Shared Drives](https://docs.digitalocean.com/products/paperspace/machines/how-to/manage-shared-drives/) and [How to Mount Shared Drives on Windows and Linux](https://docs.digitalocean.com/products/paperspace/machines/how-to/mount-shared-drives/).
 
 - Deadline licensed and installed on each machine. [Installation instructions](http://docs.thinkboxsoftware.com/products/deadline/9.0/1_User%20Manual/?ref=blog.paperspace.com#quick-install). (Make sure to set the repository to your shared drive.)
 
