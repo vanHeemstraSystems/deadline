@@ -1,7 +1,7 @@
-repository-name
-# Repository Name
+deadline
+# Deadline
 
-Based on "ABC" at https://www.abc.com/
+Based on "Distributed rendering in the cloud with Deadline™" at https://blog.paperspace.com/distributed-rendering-in-the-cloud-with-deadline/
 
 ## 100 - Introduction
 
