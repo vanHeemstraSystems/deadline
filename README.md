@@ -3,6 +3,10 @@ deadline
 
 Based on "Distributed rendering in the cloud with Deadline™" at https://blog.paperspace.com/distributed-rendering-in-the-cloud-with-deadline/
 
+Based on "A Deep Dive into Paperspace's Infrastructure" at https://blog.paperspace.com/paperspace-infrastructure/
+
+Based on "Setting-up a Paperspace Project from scratch" at https://medium.com/@aniketmish/setting-up-paperspace-project-from-scratch-bbece74eb1d5
+
 ## 100 - Introduction
 
 See [README.md](./100/README.md)
