@@ -19,3 +19,7 @@ See [README.md](./400/README.md)
 ## 500 - Public IPs on Paperspace
 
 See [README.md](./500/README.md)
+
+## 600 - VPN on Paperspace
+
+See [README.md](./600/README.md)
