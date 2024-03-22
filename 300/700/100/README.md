@@ -6,7 +6,7 @@ First access File explorer on your Paperspace machine, right-click on “This PC
 
 ![Map_Network_Drive_001](https://github.com/vanHeemstraSystems/deadline/assets/1499433/8e9f7da2-496e-490a-9bf0-6fa9e690df1f)
 
-Enter the share path to your drive provided by Paperspace and make sure that you check “Reconnect at sign-in” and “Connect using different credentials”. Note the drive letter that will be used, in this case “Z:”. **NOTE**: Make sure your Machine and your Private Network and your Shared Drive are all in the same Region (here: East Coast (NUY)).
+Enter the share path to your drive provided by Paperspace and make sure that you check “Reconnect at sign-in” and “Connect using different credentials”. Note the drive letter that will be used, in this case “Z:”. **NOTE**: Make sure your Machine and your Private Network and your Shared Drive are all in the same Region (here: East Coast (NY2)).
 
 ![Map_Network_Drive_002](https://github.com/vanHeemstraSystems/deadline/assets/1499433/831a2ab1-e6bc-44f5-ae1f-42674fe874b6)
 
