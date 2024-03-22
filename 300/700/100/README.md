@@ -4,7 +4,7 @@ This may seem obvious to some, but making sure that your shared drive is mounted
 
 First access File explorer on your Paperspace machine, right-click on “This PC” and select “Map Network Drive”
 
-![Map_Network_Drive_001](https://github.com/vanHeemstraSystems/deadline/assets/1499433/8e9f7da2-496e-490a-9bf0-6fa9e690df1f)
+![Map_Network_Drive_002](https://github.com/vanHeemstraSystems/deadline/assets/1499433/b6d524bd-235f-43d8-8168-b5bec9a0b24e)
 
 Enter the share path to your drive provided by Paperspace and make sure that you check “Reconnect at sign-in” and “Connect using different credentials”. Note the drive letter that will be used, in this case “Z:”. **NOTE**: Make sure your Machine and your Private Network and your Shared Drive are all in the same Region (here: East Coast (NY2)).
 
