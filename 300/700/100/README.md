@@ -20,3 +20,4 @@ At first you will see the content of the newly mapped network drive. It may be e
 
 If empty, create a placeholder folder (here: **movie-digital-twin**) on the mapped network drive for storing footage and Adobe After Effects project files (*.aep) into later.
 
+![Map_Network_Drive_005](https://github.com/vanHeemstraSystems/deadline/assets/1499433/ec1cf964-37ec-4341-ba37-8cdfe390db65)
