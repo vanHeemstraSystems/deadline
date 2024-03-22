@@ -8,7 +8,7 @@ First access File explorer on your Paperspace machine, right-click on “This PC
 
 Enter the share path to your drive provided by Paperspace and make sure that you check “Reconnect at sign-in” and “Connect using different credentials”. Note the drive letter that will be used, in this case “Z:”.
 
-![Map_Network_Drive_002](https://github.com/vanHeemstraSystems/deadline/assets/1499433/b305258d-2be7-46b8-8f49-208a7bcae7d3)
+![Map_Network_Drive_002](https://github.com/vanHeemstraSystems/deadline/assets/1499433/831a2ab1-e6bc-44f5-ae1f-42674fe874b6)
 
 In the pop-up log-in screen, enter the login credentials provided by Paperspace to connect to the shared drive and mount it. Make sure to check "Remember my credentials."
 
